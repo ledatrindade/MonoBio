@@ -25,5 +25,5 @@ Este projeto foi desenvolvida pra uma cliente onde foi pedido um sistema para co
 ## Autora 👩‍💻
 
 - **Nome**: Lêda Trindade
-- **Conclusão**: 07/07/2024
+- **Conclusão**: 07/02/2024
 
