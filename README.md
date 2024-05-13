@@ -22,4 +22,8 @@ Este projeto foi desenvolvida pra uma cliente onde foi pedido um sistema para co
 - **Tkinter:** Biblioteca Python para criação de interfaces gráficas.
 - **JSON:** Formato de arquivo utilizado para armazenar os dados coletados.
 
+## Autora 👩‍💻
+
+- **Nome**: Lêda Trindade
+- **Conclusão**: 07/07/2024
 
